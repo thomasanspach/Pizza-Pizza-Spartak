@@ -1,4 +1,4 @@
-Pizza-Pizza-Spartak
+alohafriends
 ===================
 ## Top 2 Pizza flavors
  * @ tom2anspach github lab rat :rat:
@@ -16,3 +16,7 @@ Pizza-Pizza-Spartak
 
 * @ charlekwallin :octopus: :cat2:
   * does dominoes have octocat?
+
+* @ alohafriends :wave:
+  * Hummus And Grilled Zucchini Pizzas
+  * Butternut Squash and Crispy Sage Pizza
