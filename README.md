@@ -16,3 +16,7 @@ Pizza-Pizza-Spartak
 
 * @ charlekwallin :octopus: :cat2:
   * does dominoes have octocat?
+
+* @ alohafriends :wave:
+  * Hummus And Grilled Zucchini Pizzas
+  * Butternut Squash and Crispy Sage Pizza
