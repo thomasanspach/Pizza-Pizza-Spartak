@@ -3,8 +3,8 @@ Pizza-Pizza-Spartak
 ## Top 2 Pizza flavors
 * @ spartak fav pizza :rat: 
  
- *the works extra anchovies
- *dolphin safe tuna! :dolphin:
+ * the works extra anchovies :warning:
+ * dolphin safe tuna! :dolphin:
 
 * @ tom2anspach github lab rat :rat:
  
