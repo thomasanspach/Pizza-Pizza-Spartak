@@ -1,4 +1,4 @@
-Pizza-Pizza-Spartak
+alohafriends
 ===================
 ## Top 2 Pizza flavors
 * @ spartak fav pizza :woman:
@@ -21,3 +21,7 @@ Pizza-Pizza-Spartak
 
 * @ charlekwallin :octopus: :cat2:
   * does dominoes have octocat?
+
+* @ alohafriends :wave:
+  * Hummus And Grilled Zucchini Pizzas
+  * Butternut Squash and Crispy Sage Pizza
